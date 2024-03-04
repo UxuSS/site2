@@ -311,7 +311,7 @@
         },
         {
           "id": "3-4-1",
-          "title": "Proportion of wetland that is degraded over total wetland area",
+          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
           "description": "",
           "keywords": "",
           "href": "/site2/es/3-4-1/",
@@ -2116,6 +2116,22 @@
           "keywords": "",
           "href": "/site2/es/17-19-2/",
           "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "Indicator_3",
+      "title": "global_goals.Indicator_3-title",
+      "indicators": [
+        
+        {
+          "id": "Indicator_3-4-1",
+          "title": "global_indicators.Indicator_3-4-1-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site2/es/Indicator_3-4-1/",
+          "status": "complete"
         }]
     }
   }]
