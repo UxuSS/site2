@@ -7,11 +7,11 @@
         
         {
           "id": "1-1-1",
-          "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)",
+          "title": "Proportion of wetland that is degraded over total wetland area",
           "description": "",
           "keywords": "",
           "href": "/site2/es/1-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-1",
@@ -95,11 +95,11 @@
         },
         {
           "id": "1-a-2",
-          "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)",
+          "title": "Proportion of total government spending on essential services",
           "description": "",
           "keywords": "",
           "href": "/site2/es/1-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-b-1",
@@ -223,11 +223,11 @@
         },
         {
           "id": "2-c-1",
-          "title": "Indicador de anomalías en los precios de los alimentos",
+          "title": "Indicator of food price anomalies",
           "description": "",
           "keywords": "",
           "href": "/site2/es/2-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -311,11 +311,11 @@
         },
         {
           "id": "3-4-1",
-          "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas",
+          "title": "Proportion of wetland that is degraded over total wetland area",
           "description": "",
           "keywords": "",
           "href": "/site2/es/3-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-4-2",
@@ -2116,6 +2116,22 @@
           "keywords": "",
           "href": "/site2/es/17-19-2/",
           "status": "notstarted"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "Indicator_3",
+      "title": "global_goals.Indicator_3-title",
+      "indicators": [
+        
+        {
+          "id": "Indicator_3-4-1",
+          "title": "global_indicators.Indicator_3-4-1-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site2/es/Indicator_3-4-1/",
+          "status": "complete"
         }]
     }
   }]
